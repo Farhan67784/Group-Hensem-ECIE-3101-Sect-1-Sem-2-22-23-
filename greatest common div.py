@@ -3,7 +3,7 @@
 #  ABDULLAH FARHAN BIN ABD NASIR (2013219)
 #  MUHAMMAD NABIL ARRASYID (2011093)
 #  IMAN IRMANISYA BIN BAKRI (1715123)
-#
+#  Ahmad Zal Hasmi Bin Ahmad Jafry (2012991)
 #
 #  Practice for Chapter 0
 # This code is to calculate the greatest common divisor of two numbers inputed by the user
