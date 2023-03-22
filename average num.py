@@ -10,9 +10,11 @@
 
 def average(x):
     avg = sum(x)/len(x)
-    return abs(avg)
+    return avg
 
 # creating an empty list
+
+
 lst = []
 
 # number of elements as input
