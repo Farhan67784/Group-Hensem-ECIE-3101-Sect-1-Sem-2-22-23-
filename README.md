@@ -1,2 +1,8 @@
-# Group-hensem-lab
-Python coding
+#  ECIE 3101 Section 1 Semester 2 Session 22/23
+#  Group member:
+#  ABDULLAH FARHAN BIN ABD NASIR (2013219)
+#  MUHAMMAD NABIL ARRASYID (2011093)
+#  IMAN IRMANISYA BIN BAKRI (1715123)
+#
+#
+#  Practice for Chapter 0
