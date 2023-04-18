@@ -84,6 +84,7 @@ class HashTable:
                 if self.keys[index] == key:
                     print("The element of '", self.values[index], "' at key '", self.keys[index], "' will be deleted")
                     self.values[index] = None
+                    self.keys[index] = None
                     return
                 else:
                     index = self.rehash_func(index)
